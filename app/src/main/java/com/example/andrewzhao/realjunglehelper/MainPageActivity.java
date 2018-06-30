@@ -34,7 +34,7 @@ public class MainPageActivity extends AppCompatActivity {
 
         showFactButton.setOnClickListener(Listener);
         Toast.makeText(this, "Yay!", Toast.LENGTH_SHORT).show();
-        Log.d(TAG, "This is from the main page");
+        Log.d(TAG, "This is from the main page yeet");
     }
 
 
